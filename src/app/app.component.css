@@ -1,0 +1,68 @@
+.main-container {
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+  background: url('../assets/img/clouds4.jpg');
+}
+
+.second-container {
+  background: rgba(255,255,255,0.8);
+  min-height: 900px
+}
+
+.logo-text {
+  margin-left: 25px;
+}
+
+.col {
+  margin: 20px
+}
+
+.comp-info {
+  align-self: center;
+  text-align: right;
+}
+
+.contacts-up{
+  text-align: right;
+  padding: 50px 30px 30px 260px;
+  font-size: 20px
+}
+
+.flame {
+  width:100%;
+  max-width:147px;
+  margin-left: 30px;
+}
+
+.menu-image {
+  background: url("../assets/img/kotelnaya.jpg");
+  background-size: 100%;
+  width: 100%;
+  height: 165px
+}
+
+.menu-container {
+  background: rgba(179, 179, 204, 0.8);
+  width: 100%;
+  height: 165px;
+  text-align: center;
+  display: inline-block;
+  padding-top: 50px;
+}
+
+.menu-button {
+  margin: 1px;
+  width: 128px;
+  font-size: 15px;
+}
+
+footer {
+  padding: 10px
+}
+
+.contacts-bottom{
+  margin: auto;
+  text-align: right;
+  font-size: 20px;
+}
